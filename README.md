@@ -116,7 +116,7 @@ Please pay close attention to whether the proxy you are using requires authentic
 
 2. Clone this repository.
    ```shell
-   git clone https://github.com/akasakaid/blumtod.git
+   git clone https://github.com/ahmedjabbar4/blumtod.git
    ```
 
 3. Enter the BlumTod folder
