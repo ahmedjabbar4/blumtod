@@ -1,0 +1,1 @@
+query_id=AAEhqgw9AgAAACGqDD1XFGev&user=%7B%22id%22%3A5319207457%2C%22first_name%22%3A%22Ahmed%20jabbar%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22ahmedjabbar4%22%2C%22language_code%22%3A%22ar%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1726615528&hash=ef76ca50a5e6b62724b8bd7b10895458bf2d3e054b623f36c3336a5a2c11ddb1
